@@ -181,3 +181,7 @@
     HallusionBench	抗幻觉能力	500+	安全关键系统（如医疗）
     RealWorldQA	现实场景常识	10K+	服务机器人、自动驾驶
     如需某个数据集的官方论文或下载链接，可进一步说明！ 📊
+
+
+    3B多模态视频理解模型
+    https://huggingface.co/AI-Safeguard/Ivy-VL-llava
